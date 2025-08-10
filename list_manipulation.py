@@ -1,3 +1,4 @@
-# Step 6: Sort my_list in ascending order.
-my_list.sort() # Sorts the elements of 'my_list' in ascending order in-place.
-print(f"Step 6: Sorted the list in ascending order: {my_list}") # Prints the current state of the list after sorting.
+
+# Step 7: Find and print the index of the value 30 in my_list.
+index_of_30 = my_list.index(30) # Finds the first occurrence of the value 30 in 'my_list' and returns its index.
+print(f"Step 7: The index of 30 is: {index_of_30}") # Prints the found index of the value 30.
