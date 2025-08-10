@@ -1,6 +1,4 @@
-# Step 2: Append the following elements to my_list: 10, 20, 30, 40.
-my_list.append(10) # Appends the integer 10 to the end of 'my_list'.
-my_list.append(20) # Appends the integer 20 to the end of 'my_list'.
-my_list.append(30) # Appends the integer 30 to the end of 'my_list'.
-my_list.append(40) # Appends the integer 40 to the end of 'my_list'.
-print(f"Step 2: Appended 10, 20, 30, 40: {my_list}") # Prints the current state of the list after appending elements.
+
+# Step 3: Insert the value 15 at the second position in the list.
+my_list.insert(1, 15) # Inserts the integer 15 at index 1 (the second position) in 'my_list'.
+print(f"Step 3: Inserted 15 at the second position: {my_list}") # Prints the current state of the list after insertion.
