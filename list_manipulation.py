@@ -1,4 +1,3 @@
-
-# Step 5: Remove the last element from my_list.
-my_list.pop() # Removes and returns the last element from 'my_list'.
-print(f"Step 5: Removed the last element: {my_list}") # Prints the current state of the list after removing the last element.
+# Step 6: Sort my_list in ascending order.
+my_list.sort() # Sorts the elements of 'my_list' in ascending order in-place.
+print(f"Step 6: Sorted the list in ascending order: {my_list}") # Prints the current state of the list after sorting.
